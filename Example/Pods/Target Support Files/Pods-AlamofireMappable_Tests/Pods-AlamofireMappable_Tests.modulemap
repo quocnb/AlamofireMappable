@@ -1,0 +1,6 @@
+framework module Pods_AlamofireMappable_Tests {
+  umbrella header "Pods-AlamofireMappable_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

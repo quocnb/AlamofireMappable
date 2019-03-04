@@ -1,0 +1,6 @@
+framework module AlamofireMappable {
+  umbrella header "AlamofireMappable-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireMappable (1.0.0):
+    - Alamofire
+    - ObjectMapper
+  - ObjectMapper (3.4.2)
+
+DEPENDENCIES:
+  - AlamofireMappable (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ObjectMapper
+
+EXTERNAL SOURCES:
+  AlamofireMappable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireMappable: 1cc36dd44f87cc4afe2da3fddcca6808213e3368
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+
+PODFILE CHECKSUM: f61c2827c3377f80c3799ea670a9a554d73eea09
+
+COCOAPODS: 1.6.0.beta.2
