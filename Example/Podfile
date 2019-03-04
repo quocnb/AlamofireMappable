@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AlamofireMappable_Tests' do
+  pod 'AlamofireMappable', :path => '../'
+  
+  
+end
